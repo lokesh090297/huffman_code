@@ -1,4 +1,4 @@
-                                      Huffman Coding (Greedy Algorithms) in Java
+                            Huffman Coding (Greedy Algorithms) in Java
 
 
 Introduction
