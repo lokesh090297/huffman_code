@@ -1,4 +1,4 @@
-Huffman Coding (Greedy Algorithms) in Java
+                                      Huffman Coding (Greedy Algorithms) in Java
 
 
 Introduction
@@ -13,10 +13,10 @@ Tested the code with Unix's words file (/usr/share/dict/words)
 Get the result of data compression rate
 
 
-Key techniques used
+((Key techniques used))
 
 Greedy Algorithms/
 HashMap/
-PriorityQueue (Min Heap)
-Nested Class
-Recursion
+PriorityQueue (Min Heap)/
+Nested Class/
+Recursion.
