@@ -14,8 +14,9 @@ Get the result of data compression rate
 
 
 Key techniques used
-Greedy Algorithms
-HashMap
+
+Greedy Algorithms/
+HashMap/
 PriorityQueue (Min Heap)
 Nested Class
 Recursion
