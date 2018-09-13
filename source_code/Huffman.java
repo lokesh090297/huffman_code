@@ -184,7 +184,7 @@ public class Huffman {
 		encodedStr = sb.toString();
 		return encodedStr;
 	}
-	
+	//hello
 	public String decode(){
 		StringBuilder sb = new StringBuilder();
 		String t = "";
